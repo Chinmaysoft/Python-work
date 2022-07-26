@@ -1,8 +1,8 @@
-# Python Scripts
+# Python Scripts (Python Programs)
 
 This repository contains python programs
 
-##Mini project 5
+## Mini project 5
 
 ```
 This script collect data from user and stored in text file.
