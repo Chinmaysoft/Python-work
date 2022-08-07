@@ -2,6 +2,12 @@
 
 This repository contains python programs
 
+## Mini project 6
+
+```
+In This project Student script is totally depends on Mini project 6
+```
+
 ## Mini project 5
 
 ```
